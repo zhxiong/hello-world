@@ -1,3 +1,4 @@
 # hello-world
-Tradition
+Tradition of 'Murica!
+
 All hail to the 2nd Amendment!
